@@ -1,0 +1,4 @@
+pyatv
+srptools<2
+pillow
+pyobjc-framework-MediaPlayer; sys_platform == "darwin"
